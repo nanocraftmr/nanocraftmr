@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nanocraftmr
-- 👀 I’m interested in Python, (php, HTML, Css) 
+- 👀 I’m interested in Python, Javascript, Html, css
 - 🌱 I’m currently learning programming :)
 - 📫 How to reach me discord: 8aufeinenstreich#0130
 
