@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nanocraftmr
 - 👀 I’m interested in Python, Typescript, Angular, Webdesign, Tensorflow
 - 🌱 I’m currently learning Angular
-- 📫 How to reach me discord: 8aufeinenstreich#0130
+- 📫 How to reach me discord: 8aufeinenstreich
 
 <!---
 nanocraftmr/nanocraftmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
