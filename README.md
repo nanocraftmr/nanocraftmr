@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nanocraftmr
-- 👀 I’m interested in Python, Javascript, Html, css
-- 🌱 I’m currently learning programming :)
+- 👀 I’m interested in Python, Typescript, Angular, Webdesign, Tensorflow
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me discord: 8aufeinenstreich#0130
 
 <!---
