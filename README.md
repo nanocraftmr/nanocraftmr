@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nanocraftmr
+- 👋 Hi, I’m Nepomuk Esterhazy
 - 👀 I’m interested in Python, Typescript, Angular, Webdesign, Tensorflow
 - 🌱 I’m currently learning Angular
 - 📫 How to reach me discord: 8aufeinenstreich
